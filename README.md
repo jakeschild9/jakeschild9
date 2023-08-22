@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-My name is Jake Schildknecht and am a computer science major at Missouri State University.
+My name is Jake Schildknecht and I am a computer science major at Missouri State University.
